@@ -1,0 +1,13 @@
+.tab-wrap {
+  .tab-menu {
+    ul {
+      display: flex;
+      align-items: center;
+      li {
+        cursor: pointer;
+        margin: 0 10px;
+        list-style: none;
+      }
+    }
+  }
+}
